@@ -3,7 +3,7 @@
 
 项目GitHub地址--> https://github.com/xiaosongshine/dlib_face_recognition
 
-项目教程地址--> https://blog.csdn.net/xiaosongshine/article/details/89496667
+项目教程地址--> https://xiaosongshine.blog.csdn.net/article/details/117073052
 
 ### 1.背景介绍
 Dlib是一个深度学习开源工具，基于C++开发，也支持Python开发接口，功能类似于TensorFlow与PyTorch。但是由于Dlib对于人脸特征提取支持很好，有很多训练好的人脸特征提取模型供开发者使用，所以Dlib人脸识别开发很适合做人脸项目开发。
